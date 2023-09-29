@@ -5,6 +5,7 @@ A common practice performed by restaurant management is analyzing customer revie
 
 ## **Technologies Utilized** 
 OpenAI API
+
 Python Libraries
 * pandas
 * numpy
